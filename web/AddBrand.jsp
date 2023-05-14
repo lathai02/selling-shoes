@@ -38,7 +38,7 @@
                 </div> 
                 <br><br>
                 <div style="font-size: 25px;" >
-                    Brand image:
+                    Brand image hihi:
                     <br>
                     <div style="display: flex; justify-content: space-between">                       
                         <input type="file" name="newImg" />
